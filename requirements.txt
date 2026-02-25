@@ -2,6 +2,7 @@ streamlit>=1.28.0
 pandas
 requests
 python-dotenv
-st-keyup
+streamlit-keyup
 google-genai
 plotly>=5.0.0
+
